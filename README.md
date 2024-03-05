@@ -1,7 +1,6 @@
-### Buenas! Sou Edson
+### I'm Edson, what's up? 
 ##
-- 🔭 Hoje sou desenvolvedor de software
-- 🌱 Estudando ADS
+- 🔭 I'm Software Developer
 
 <img align="right" alt="Edsu-Gow" src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=790b76111ay7p4roo3i4em3b2gipw7zwabp3cbjky73z1f26&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
