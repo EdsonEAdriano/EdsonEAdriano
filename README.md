@@ -4,7 +4,6 @@
 
 - 🔭 I'm Software Developer
 - 📦 WMS knowledge
-- 
 ##
 
 
