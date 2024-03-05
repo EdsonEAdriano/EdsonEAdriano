@@ -1,8 +1,14 @@
-### I'm Edson, what's up? 
-##
-- 🔭 I'm Software Developer
+### Welcome to my Github profile!
+#### I'm Edson, what's up? 
 
-<img align="right" alt="Edsu-Gow" src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=790b76111ay7p4roo3i4em3b2gipw7zwabp3cbjky73z1f26&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+- 🔭 I'm Software Developer
+- 📦 WMS knowledge
+- 
+##
+
+
+<img align="right" alt="Edsu-Gow" src="https://media.giphy.com/media/S6VGjvmFRu5Qk/giphy.gif?cid=ecf05e47cixekrwv0zcblhkb87m1u4malnyfhej4r9tsbnex&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <div>
