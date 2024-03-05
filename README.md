@@ -4,8 +4,14 @@
 
 - 🔭 I'm Software Developer
 - 📦 WMS knowledge
-##
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edsu-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Edsu-Blazor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+  <img align="center" alt="Edsu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+##
 
 <img align="right" alt="Edsu-Gow" src="https://media.giphy.com/media/S6VGjvmFRu5Qk/giphy.gif?cid=ecf05e47cixekrwv0zcblhkb87m1u4malnyfhej4r9tsbnex&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -14,12 +20,7 @@
   <a href="https://github.com/EdsonEAdriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonEAdriano&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edsu-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Edsu-Blazor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
-  <img align="center" alt="Edsu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
+    
 ##
  
 <div> 
