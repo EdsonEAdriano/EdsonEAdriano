@@ -21,10 +21,11 @@
 <img align="right" alt="Edsu-Gow" src="https://media.giphy.com/media/S6VGjvmFRu5Qk/giphy.gif?cid=ecf05e47cixekrwv0zcblhkb87m1u4malnyfhej4r9tsbnex&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-<div style>
-  <a href="https://github.com/EdsonEAdriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonEAdriano&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonEAdriano&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonEAdriano&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
  
 
 
