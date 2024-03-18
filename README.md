@@ -1,4 +1,4 @@
-### Welcome to my Github profile!
+### Welcome to my Github profile! 🤠
 #### I'm Edson, what's up? 
 
 ##
