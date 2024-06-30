@@ -28,8 +28,8 @@ I'm a technology enthusiast with a passion for software development and creating
     </div>
     <div align="center">
       <h1 align="center">Social Networks 📲</h1>
-      <a href="https://instagram.com/edsu_adriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/edson-eurides-adriano-1122591a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://instagram.com/edsu_adriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </div>
   </div>
 </div>
